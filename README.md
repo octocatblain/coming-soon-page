@@ -1,6 +1,10 @@
-<h1 align="center">Welcome to comingsoon_01 👋</h1>
+<h1 align="center">Welcome to Maintenance Page for Two Star Safaris Ltd 👋</h1>
 <p>
 </p>
+
+## Demo
+![Demo](/images/maintenance.jpeg "Demo Image")
+
 
 ## Show your support
 
