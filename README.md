@@ -3,7 +3,7 @@
 </p>
 
 ## Demo
-![Demo](/images/maintenance.png "Demo Image")
+![Demo](maintenance.png "Demo Image")
 
 
 ## Show your support
